@@ -1,6 +1,6 @@
 package services
 
 
-object ChatServiceMessage {
+object ChatServiceMessages {
   case class Message(author: String, text: String)
 }
